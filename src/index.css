@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #0070C0; /* TSYS blue color (adjust as needed) */
+  color: #ffffff; /* Text color for contrast */
+	background-image: linear-gradient(79deg,#2e73eb,#000);
 }
 
 code {
